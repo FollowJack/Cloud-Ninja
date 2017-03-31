@@ -1,0 +1,21 @@
+{
+  "name": "cloud-ninja",
+  "version": "1.0.0",
+  "description": "Hello cloud project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FollowJack/Cloud-Ninja.git"
+  },
+  "author": "deniel.horvatic@porschedigitallab.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FollowJack/Cloud-Ninja/issues"
+  },
+  "homepage": "https://github.com/FollowJack/Cloud-Ninja#readme"
+}
